@@ -99,7 +99,7 @@ extension_services:
           My_Provisioning:
             class: Provision
             ltm: nominal
-            dns: nominal
+            gtm: nominal
           My_System:
             class: System
             autoPhonehome: true
